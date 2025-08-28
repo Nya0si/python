@@ -1,4 +1,3 @@
-python
 def modify_content(content):
     # Example modification: convert content to uppercase
     return content.upper()
